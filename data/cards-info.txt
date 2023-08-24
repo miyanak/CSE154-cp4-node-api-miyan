@@ -1,0 +1,262 @@
+{
+  "14-of-clubs": {
+    "name": "ace-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/ka.png",
+    "alt": "Ace of Clubs"
+  },
+  "2-of-clubs": {
+    "name": "two-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/k2.png",
+    "alt": "Two of Clubs"
+  },
+  "3-of-clubs": {
+    "name": "three-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/k3.png",
+    "alt": "Three of Clubs"
+  },
+  "4-of-clubs": {
+    "name": "four-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/k4.png",
+    "alt": "Four of Clubs"
+  },
+  "5-of-clubs": {
+    "name": "five-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/k5.png",
+    "alt": "Five of Clubs"
+  },
+  "6-of-clubs": {
+    "name": "six-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/k6.png",
+    "alt": "Six of Clubs"
+  },
+  "7-of-clubs": {
+    "name": "seven-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/k7.png",
+    "alt": "Seven of Clubs"
+  },
+  "8-of-clubs": {
+    "name": "eight-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/k8.png",
+    "alt": "Eight of Clubs"
+  },
+  "9-of-clubs": {
+    "name": "nine-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/k9.png",
+    "alt": "Nine of Clubs"
+  },
+  "10-of-clubs": {
+    "name": "ten-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/k10.png",
+    "alt": "Ten of Clubs"
+  },
+  "11-of-clubs": {
+    "name": "jack-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/kj.png",
+    "alt": "Jack of Clubs"
+  },
+  "12-of-clubs": {
+    "name": "queen-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/kq.png",
+    "alt": "Queen of Clubs"
+  },
+  "13-of-clubs": {
+    "name": "king-of-clubs",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/kk.png",
+    "alt": "King of Clubs"
+  },
+  "14-of-hearts": {
+    "name": "ace-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/sa.png",
+    "alt": "Ace of Hearts"
+  },
+  "2-of-hearts": {
+    "name": "two-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/s2.png",
+    "alt": "Two of Hearts"
+  },
+  "3-of-hearts": {
+    "name": "three-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/s3.png",
+    "alt": "Three of Hearts"
+  },
+  "4-of-hearts": {
+    "name": "four-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/s4.png",
+    "alt": "Four of Hearts"
+  },
+  "5-of-hearts": {
+    "name": "five-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/s5.png",
+    "alt": "Five of Hearts"
+  },
+  "6-of-hearts": {
+    "name": "six-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/s6.png",
+    "alt": "Six of Hearts"
+  },
+  "7-of-hearts": {
+    "name": "seven-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/s7.png",
+    "alt": "Seven of Hearts"
+  },
+  "8-of-hearts": {
+    "name": "eight-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/s8.png",
+    "alt": "Eight of Hearts"
+  },
+  "9-of-hearts": {
+    "name": "nine-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/s9.png",
+    "alt": "Nine of Hearts"
+  },
+  "10-of-hearts": {
+    "name": "ten-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/s10.png",
+    "alt": "Ten of Hearts"
+  },
+  "11-of-hearts": {
+    "name": "jack-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/sj.png",
+    "alt": "Jack of Hearts"
+  },
+  "12-of-hearts": {
+    "name": "queen-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/sq.png",
+    "alt": "Queen of Hearts"
+  },
+  "13-of-hearts": {
+    "name": "king-of-hearts",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/sk.png",
+    "alt": "King of Hearts"
+  },
+  "14-of-spades": {
+    "name": "ace-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/pa.png",
+    "alt": "Ace of Spades"
+  },
+  "2-of-spades": {
+    "name": "two-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/p2.png",
+    "alt": "Two of Spades"
+  },
+  "3-of-spades": {
+    "name": "three-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/p3.png",
+    "alt": "Three of Spades"
+  },
+  "4-of-spades": {
+    "name": "four-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/p4.png",
+    "alt": "Four of Spades"
+  },
+  "5-of-spades": {
+    "name": "five-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/p5.png",
+    "alt": "Five of Spades"
+  },
+  "6-of-spades": {
+    "name": "six-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/p6.png",
+    "alt": "Six of Spades"
+  },
+  "7-of-spades": {
+    "name": "seven-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/p7.png",
+    "alt": "Seven of Spades"
+  },
+  "8-of-spades": {
+    "name": "eight-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/p8.png",
+    "alt": "Eight of Spades"
+  },
+  "9-of-spades": {
+    "name": "nine-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/p9.png",
+    "alt": "Nine of Spades"
+  },
+  "10-of-spades": {
+    "name": "ten-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/p10.png",
+    "alt": "Ten of Spades"
+  },
+  "11-of-spades": {
+    "name": "jack-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/pj.png",
+    "alt": "Jack of Spades"
+  },
+  "12-of-spades": {
+    "name": "queen-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/pq.png",
+    "alt": "Queen of Spades"
+  },
+  "13-of-spades": {
+    "name": "king-of-spades",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/pk.png",
+    "alt": "King of Spades"
+  },
+  "14-of-diamonds": {
+    "name": "ace-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/la.png",
+    "alt": "Ace of Diamonds"
+  },
+  "2-of-diamonds": {
+    "name": "two-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/l2.png",
+    "alt": "Two of Diamonds"
+  },
+  "3-of-diamonds": {
+    "name": "three-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/l3.png",
+    "alt": "Three of Diamonds"
+  },
+  "4-of-diamonds": {
+    "name": "four-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/l4.png",
+    "alt": "Four of Diamonds"
+  },
+  "5-of-diamonds": {
+    "name": "five-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/l5.png",
+    "alt": "Five of Diamonds"
+  },
+  "6-of-diamonds": {
+    "name": "six-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/l6.png",
+    "alt": "Six of Diamonds"
+  },
+  "7-of-diamonds": {
+    "name": "seven-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/l7.png",
+    "alt": "Seven of Diamonds"
+  },
+  "8-of-diamonds": {
+    "name": "eight-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/l8.png",
+    "alt": "Eight of Diamonds"
+  },
+  "9-of-diamonds": {
+    "name": "nine-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/l9.png",
+    "alt": "Nine of Diamonds"
+  },
+  "10-of-diamonds": {
+    "name": "ten-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/l10.png",
+    "alt": "Ten of Diamonds"
+  },
+  "11-of-diamonds": {
+    "name": "jack-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/lj.png",
+    "alt": "Jack of Diamonds"
+  },
+  "12-of-diamonds": {
+    "name": "queen-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/lq.png",
+    "alt": "Queen of Diamonds"
+  },
+  "13-of-diamonds": {
+    "name": "king-of-diamonds",
+    "image": "https://www.improvemagic.com/wp-content/uploads/2020/11/lk.png",
+    "alt": "King of Diamonds"
+  }
+}

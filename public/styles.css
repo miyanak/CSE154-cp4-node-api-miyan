@@ -1,0 +1,49 @@
+/*
+Name: Miya Nakata
+Section: CSE 154 AA (TA Elias Martin)
+Date: May 18, 2023
+
+This is the styles.css file for my CP4 assignment. Card images by macrovector on Freepik.
+
+*/
+
+body {
+  /* background-color: gray; */
+}
+
+h1 {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 10vw;
+  margin: 1vw;
+}
+
+#p1, #war-space, #p2 {
+  display: flex;
+}
+
+#p1 h3, #p2 h3 {
+  text-align: center;
+}
+
+#cards-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.game-btns {
+  text-align: center;
+  display: block;
+}
+
+#reveal-btn, #end-btn {
+  margin: 1vw;
+}

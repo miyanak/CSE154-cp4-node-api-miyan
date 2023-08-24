@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!--
+Name: Miya Nakata
+Section: CSE 154 AA (TA Elias Martin)
+Date: May 18, 2023
+
+This is the index.html file for my CP4 assignment.
+-->
+<html>
+  <head lang="en">
+    <meta charset= "utf-8">
+    <title>WAR</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>War: The Card Game</h1>
+    </header>
+    <main>
+      <article id="intro-view">
+        <p>
+          <strong>How to Play:</strong>
+          The two players are each delt 26 cards face-down from the
+          standard 52 card deck. Each player turns the card on the top of their deck face-up at the
+          same time. The player with the higher card wins, takes both cards, and places them in a
+          separate stack. However, if the cards are the same rank, War occurs.
+        </p>
+        <p>
+          <strong>Going to War:</strong>
+          To go to war, each player places three cards from the top of their deck face-down on top
+          of the cards they went to war on. Both players then flip their fourth card face-up on
+          their stacks. Whoever has the higher fourth card wins and takes all the cards used in the
+          war. If the fourth cards are the same value, another war occurs in the same fashion.
+          If a player doesn't have enough cards for war, they must turn their last card face-up,
+          this will be the card used to play war.
+        </p>
+        <p>
+          <strong>How to Win:</strong>
+          The winner is the player who wins all the cards in the deck.
+        </p>
+        <p>
+          <strong>Card Rankings (from highest to lowest):</strong><br>
+          <em>Note: The suit of a card is irrelevant.</em>
+        </p>
+        <ul>
+          <li>Ace (highest)</li>
+          <li>King</li>
+          <li>Queen</li>
+          <li>Jack</li>
+          <li>10</li>
+          <li>9</li>
+          <li>8</li>
+          <li>7</li>
+          <li>6</li>
+          <li>5</li>
+          <li>4</li>
+          <li>3</li>
+          <li>2 (lowest)</li>
+        </ul>
+        <button id="start-btn">Start Game</button>
+      </article>
+
+      <article id="game-view" class="hidden">
+        <section id="cards-container">
+          <section id="p1">
+            <h3>You</h3>
+            <section class="card">
+              <img src="card-back.png" alt="back of card" class="playing-card">
+              <p id="p1-cards-left">Cards left: <span>26</span></p>
+              <p id="p1-points">Points: <span>0</span></p>
+            </section>
+          </section>
+          <section id="war-space">
+            <section id="p1-war-card" class="card">
+              <img src="card-back.png" alt="back of card" class="playing-card">
+            </section>
+            <section id="p2-war-card" class="card">
+              <img src="card-back.png" alt="back of card" class="playing-card">
+            </section>
+          </section>
+          <section id="p2">
+            <h3>Challenger</h3>
+            <section class="card">
+              <img src="card-back.png" alt="back of card" class="playing-card">
+              <p id="p2-cards-left">Cards left: <span>26</span></p>
+              <p id="p2-points">Points: <span>0</span></p>
+            </section>
+          </section>
+        </section>
+        <section class="game-btns">
+          <button id="flip-btn">Flip</button>
+          <button id="war-btn" class="hidden">Go to War</button>
+          <button id="end-btn">End Game</button>
+        </section>
+      </article>
+    </main>
+  </body>
+</html>
